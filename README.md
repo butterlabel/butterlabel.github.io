@@ -1,2 +1,3 @@
-# dotcom
-The web bubble is back! Get your site today!
+# Our own little dotcom
+The web bubble is back! Quick before it bursts.
+
